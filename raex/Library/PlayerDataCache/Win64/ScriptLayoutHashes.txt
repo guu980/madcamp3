@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/q/Documents/GitHub/bingsuya/raex/Build Versions/raex.exe
+C:/Users/q/bingsuya/game/raex.exe
 SceneListBegin?
 Assets/Scenes/StartScene.unity
 Assets/Scenes/SampleScene.unity
@@ -112,6 +112,7 @@ aa165095bcf0f4d99594ea33df01c81b UnityEngine.UI.dll:UnityEngine.UI.Slider
 abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 71bb6a6b6c8f052f948db64c7dd3ca4f SteamVR.dll:Valve.VR.InteractionSystem.InputModule
+15e749ffd279af896843a1b77e54ceaa Assembly-CSharp.dll:.VRSliderStart
 3ffeba0f723a4385ddb9431e1138b181 SteamVR.dll:Valve.VR.SteamVR_Behaviour_Boolean
 2e4d26187828ec6fc78fe78f0712f15b SteamVR.dll:Valve.VR.InteractionSystem.Sample.CustomSkeletonHelper
 5d46189bfca968b9b26fd60c37765c3f Assembly-CSharp.dll:.GvrArmModel
@@ -288,7 +289,6 @@ fb6a1ea36b4f6ef5948d283d93760765 UnityEngine.GoogleAudioSpatializer.dll:UnityEng
 25c426f94768dd848da129dbfa3f5e2d SteamVR.dll:Valve.VR.InteractionSystem.BalloonSpawner
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GvrRecenterOnlyController
 cdc504759d64aae7eed4463cbaec87db Assembly-CSharp.dll:.Readme
-70ea3fa539a012b563be56003ad3dfc1 Assembly-CSharp.dll:.VRButton
 0aefaa69b3866ee3ae66f07ddb7f44ad Assembly-CSharp.dll:GoogleVR.VideoDemo.VideoPlayerReference
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.InstantPreviewHelper
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Gvr.Internal.EmulatorManager
@@ -342,5 +342,3 @@ d287c185a119d79ff1e89b8a6a2ad8aa SteamVR.dll:Valve.VR.SteamVR_Frustum
 9ef0ed9504edb9d0914e240dee1b7846 Assembly-CSharp.dll:GoogleVR.Beta.GvrBetaControllerVisualMulti
 75cd39a1f6026e63f483b86039e2c4cb SteamVR.dll:Valve.VR.SteamVR_Camera
 34e7991a9252968fc267ed59fd9d9940 SteamVR.dll:Valve.VR.InteractionSystem.HoverButton
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.StrartButton
-15e749ffd279af896843a1b77e54ceaa Assembly-CSharp.dll:.VRSliderStart
