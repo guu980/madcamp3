@@ -33,7 +33,7 @@ public class IceScript : MonoBehaviour
             flag = true;
             if (icecount < 4)
             {
-                obj[icecount] = Instantiate(ice, new Vector3(-0.4f, 0.1f, -0.1f), Quaternion.identity);
+                obj[icecount] = Instantiate(ice, new Vector3(2.13f, 1.39f, 0.93f), Quaternion.identity);
                 icecount++;
             } else
             {
@@ -41,7 +41,7 @@ public class IceScript : MonoBehaviour
                 {
                     Destroy(obj[i]);
                 }
-                obj2 = Instantiate(bingsoo, new Vector3(-0.4f, 0.1f, -0.1f), Quaternion.identity);
+                obj2 = Instantiate(bingsoo, new Vector3(2.13f, 1.39f, 0.93f), Quaternion.identity);
                 icecount = 0;
             }
 
